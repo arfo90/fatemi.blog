@@ -4,10 +4,10 @@ meta_description: "Amir Fatemi blog, where he posts his blog stuff"
 
 markdown: kramdown
 highlighter: rouge
-logo: false
+#logo: false
 paginate: 15
-baseurl: /
-domain_name: "https://fatemi.blog"
+baseurl: ""
+#domain_name: "https://fatemi.blog"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
