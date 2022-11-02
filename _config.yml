@@ -1,6 +1,6 @@
-title: "Amir Fatemi's Blog"
+title: "Amir Fatemi"
 author: "Amir Fatemi"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: ""  # "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
